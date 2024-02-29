@@ -1,0 +1,12 @@
+Q. AddNumbers
+
+Write a python code to add variable length of numbers by creating the function using *args.
+
+Q. KeywordArgsExample
+
+Write a Python function that accepts a variable number of keyword arguments and prints out the data, along with the data type of the argument"
+
+Q. WeeklyAttendance
+
+Write a Python code to find total attendees ina week using Keyword arguments.
+
