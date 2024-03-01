@@ -2,7 +2,7 @@ Q. DivisibleBy7
 
 Find all the numbers from 1-1000 that are divisible by 7.
 
-Q. Number3inThem
+Q. NumbersHaving3inThem
 
 Find all the numbers from 1-1000 that have a 3 in them.
 
@@ -14,7 +14,7 @@ Q. Consonants
 
 Create a list of all the consonants in the string " Yellow Yaks like yelling and yawning and yesterday they yodled while eating yuks yams".
 
-Q. IndexValue
+Q. IndexValuePair
 
 Get the index and value as a tuple for items in the list 'hi' , 4,8.99,'apple',('t,b','n').
 Result would look like (index,value),(index,value).
@@ -27,7 +27,7 @@ Q. OnlyNumbers
 
 Get only the numbers in a sentence like 'In 1984 there were 13 instances of a protest with over 1000 people attending'.
 
-Q. EvenOdd
+Q. EvenOddNumbers
 
 Given numbers = range(20), produce a list containing the word 'even' if a number in the numbers is even, and the word 'odd' if the number is odd.  Result would look like ['odd','odd', 'even'].
 
