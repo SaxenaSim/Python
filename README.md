@@ -11,13 +11,14 @@ This repository contains practice questions on various Python topics to help you
 - [Decorator Modules](#decorator-modules)
 
 
-### Getting Started
+## Getting Started
 
 ## Clone the Repository:
-    ```bash
+
+```bash
 
     git clone https://github.com/SaxenaSim/Python.git
-    ```
+```
 
 ## Explore Questions:
 Navigate to the questions file to find a list of practice questions.
@@ -66,5 +67,7 @@ Go to your fork on GitHub and create a Pull Request.
 Provide a clear title and description of your contribution.
 
 ## Happy Coding!
+
+Enjoy practicing Python and leveling up your programming skills. If you have any questions, suggestions, or improvements, feel free to open an issue or contribute to make this repository even more valuable for the community. Happy coding!
 
 
