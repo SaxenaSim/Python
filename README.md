@@ -5,10 +5,10 @@ This repository contains practice questions on various Python topics to help you
 ## Table of Contents
 
 - [Variable Arguments and Keyword-Based Arguments](https://github.com/SaxenaSim/Python/tree/fixes/VariableAndKeywordArgs)
-- [List Comprehensions](#ListComprehensions)
-- [F-Strings](#fStrings)
-- [Dunder Methods](#DunderMethods)
-- [Decorator Modules](#Decorators)
+- [List Comprehensions](https://github.com/SaxenaSim/Python/tree/fixes/ListComprehensions)
+- [F-Strings](https://github.com/SaxenaSim/Python/tree/fixes/fStrings)
+- [Dunder Methods](https://github.com/SaxenaSim/Python/tree/fixes/DunderMethods)
+- [Decorator Modules](https://github.com/SaxenaSim/Python/tree/fixes/Decorators)
 
 
 ## Getting Started
