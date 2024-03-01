@@ -4,7 +4,7 @@ This repository contains practice questions on various Python topics to help you
 
 ## Table of Contents
 
-- [Variable Arguments and Keyword-Based Arguments](#VariableAndKeywordArgs)
+- [Variable Arguments and Keyword-Based Arguments](https://github.com/SaxenaSim/Python/tree/fixes?tab=readme-ov-file#VariableAndKeywordArgs)
 - [List Comprehensions](#ListComprehensions)
 - [F-Strings](#fStrings)
 - [Dunder Methods](#DunderMethods)
